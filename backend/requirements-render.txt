@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+pillow
+numpy
+opencv-python-headless
+torch
+torchvision
+requests
+setuptools==81.0.0
+huggingface_hub>=0.35.0
